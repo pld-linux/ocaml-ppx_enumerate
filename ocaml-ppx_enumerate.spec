@@ -42,7 +42,7 @@ używających biblioteki ppx_enumerate.
 
 %package devel
 Summary:	Generate a list containing all values of a finite type - development part
-Summary(pl.UTF-8):	Generowanie listy zawierającej wszystkie wartości typu skończonego - cześć programistyczna
+Summary(pl.UTF-8):	Generowanie listy zawierającej wszystkie wartości typu skończonego - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
